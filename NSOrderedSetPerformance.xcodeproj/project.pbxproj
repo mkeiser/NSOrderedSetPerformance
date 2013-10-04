@@ -129,7 +129,7 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = meister;
 			};
-			buildConfigurationList = D8204BCE1745772C00796130 /* Build configuration list for PBXProject "NSOrderedSetPerformanceTest" */;
+			buildConfigurationList = D8204BCE1745772C00796130 /* Build configuration list for PBXProject "NSOrderedSetPerformance" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -253,7 +253,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D8204BCE1745772C00796130 /* Build configuration list for PBXProject "NSOrderedSetPerformanceTest" */ = {
+		D8204BCE1745772C00796130 /* Build configuration list for PBXProject "NSOrderedSetPerformance" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D8204BF41745772C00796130 /* Debug */,
